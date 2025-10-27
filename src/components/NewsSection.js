@@ -14,7 +14,7 @@ const NewsSection = () => {
             
             <article className="news-card bg-white rounded-lg shadow-sm p-6 mb-6">
               <h2 className="text-xl font-bold text-gray-900 mb-4">
-                27 ЖОВТНЯ ПО ЗАПОРІЗЬКІЙ ОБЛАСТІ ДІЯТИМУТЬ ГПВ
+                27 ЖОВТНЯ У ЗАПОРІЗЬКІЙ ОБЛАСТІ БУДе гулянка
               </h2>
               
               <div className="flex items-center space-x-4 text-sm text-gray-500 mb-4">
