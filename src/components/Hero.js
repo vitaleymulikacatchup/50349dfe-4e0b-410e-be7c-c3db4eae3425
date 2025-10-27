@@ -7,7 +7,7 @@ const Hero = () => {
     }}>
       <div className="absolute inset-0 flex items-center justify-center">
         <h1 className="hero-text text-yellow-400 text-4xl md:text-6xl font-bold text-center">
-          БУХАЙ ПОКИ МОЛОДИЙ
+          Yo Yo man
         </h1>
       </div>
     </section>
