@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@layer components {
+  .hero-text {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    letter-spacing: 0.2em;
+  }
+  
+  .news-card {
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .news-card:hover {
+    transform: translateY(-2px);
+  }
+  
+  .schedule-table {
+    border-collapse: collapse;
+  }
+  
+  .schedule-table td {
+    border: 1px solid #e5e7eb;
+    padding: 8px 12px;
+  }
+}
